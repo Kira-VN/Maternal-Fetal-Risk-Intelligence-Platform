@@ -1,4 +1,4 @@
-# Maternal & Fetal Risk Intelligence Platform
+# Maternal–Fetal Risk System
 
 A Streamlit-based machine learning application that predicts **maternal pregnancy risk** and **fetal health status** using clinical data and **CTG (Cardiotocography) features**.  
 The platform combines dual ML models, preprocessing pipelines, and interactive dashboards powered by government health data.
